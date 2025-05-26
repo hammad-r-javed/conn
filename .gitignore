@@ -2,6 +2,7 @@
 .localized
 
 IGNORE/
+cabal-dir/
 
 dist
 dist-*
